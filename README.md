@@ -1,1 +1,6 @@
 # Project-Del-Comportamiento-De-Las-Tendencias-De-Videos
+visit dashboard here: https://public.tableau.com/views/ComportamientodelasTendenciasdeVideos/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Análisis del Comportamiento de las Tendencias de Videos es un estudio exploratorio y visual desarrollado por Sterling & Draper, enfocado en identificar patrones de popularidad y preferencias de consumo en videos de YouTube a nivel global y regional (noviembre 2017 – junio 2018). El proyecto incluye la creación de un dashboard interactivo que permite filtrar y visualizar tendencias por categoría y región, facilitando la interpretación de los resultados.
+
+El análisis revela que las categorías Entertainment, People & Blogs y Music dominaron las tendencias globales, con variaciones notables según la región. Estados Unidos mostró una preferencia marcada por entretenimiento y música, mientras que otras regiones presentaron una distribución más diversa, destacando categorías como People & Blogs, News & Politics y Gaming. Estos hallazgos subrayan la importancia de adaptar estrategias de contenido y marketing a las particularidades culturales y de consumo de cada país.
